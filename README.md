@@ -1,4 +1,4 @@
 # Simpy
 Simulation of product manufacturing
 
-Everything contained withis KSSimulation.ipynb notebook.
+Everything contained within the KSSimulation.ipynb notebook.
